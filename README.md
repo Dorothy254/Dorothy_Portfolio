@@ -12,6 +12,7 @@ The goal of this project is to transform raw transactional sales data into actio
 ### [Project 3:Predicting Loan default](https://github.com/princenzmw/Loan_Default_Prediction)
 
 # This Data Science project aims to predict whether a customer will default on their loan based on financial history, personal attributes, and loan details. Accurately identifying high-risk borrowers can help financial institutions minimize losses and make more informed lending decisions.
+# ![](https://github.com/Dorothy254/Dorothy_Portfolio/blob/main/images/proj2image.png)
 
 
 
