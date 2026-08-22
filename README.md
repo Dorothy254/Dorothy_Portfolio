@@ -6,5 +6,8 @@ data science portfolio
 The goal of this project is to transform raw transactional sales data into actionable business insights that can support decision-making
 
 ## [Churn Analysis](https://github.com/Dorothy254/FUTURE_DS_02)
+# The aim of this project was to help the business understand why customers are leaving the platform, and suggest actionable strategies to improve retention.
+
+
 
 
