@@ -6,9 +6,9 @@ data science portfolio
 The goal of this project is to transform raw transactional sales data into actionable business insights that can support decision-making
 
 ## [Project 2: Churn Analysis](https://github.com/Dorothy254/FUTURE_DS_02)
-# The aim of this project was to understand why customers are leaving the platform, and suggest actionable strategies to improve retention.
+# The aim of this project was to understand why customers are leaving the platform, and suggest actionable strategies to improve retention. This will help the business to reduce loss and generate more profit.
 
-### [Project 3:Predicting Loan default]
+### [Project 3:Predicting Loan default](https://github.com/princenzmw/Loan_Default_Prediction)
 
 # This Data Science project aims to predict whether a customer will default on their loan based on financial history, personal attributes, and loan details. Accurately identifying high-risk borrowers can help financial institutions minimize losses and make more informed lending decisions.
 
