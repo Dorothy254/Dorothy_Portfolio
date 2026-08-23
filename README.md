@@ -17,6 +17,8 @@ The goal of this project is to transform raw transactional sales data into actio
 # This Data Science project aims to predict whether a customer will default on their loan based on financial history, personal attributes, and loan details. Accurately identifying high-risk borrowers can help financial institutions minimize losses and make more informed lending decisions.
 
 #### [Project 4:Hate speech classifier](https://github.com/Dorothy254/hate_speech_classifier)
+# This project uses Natural Language Processing (NLP) and Machine Learning to classify tweets into three categories: Neither, Offensive Language and Hate Speech
+ The project covers data exploration, text preprocessing, TF-IDF feature extraction, model training, and model evaluation.
 
 
 
