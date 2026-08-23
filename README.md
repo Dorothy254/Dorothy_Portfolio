@@ -16,6 +16,7 @@ The goal of this project is to transform raw transactional sales data into actio
 
 # This Data Science project aims to predict whether a customer will default on their loan based on financial history, personal attributes, and loan details. Accurately identifying high-risk borrowers can help financial institutions minimize losses and make more informed lending decisions.
 
+####[Project 4:Hate speech classifier](
 
 
 
